@@ -1,0 +1,37 @@
+# Trent Best - Software Developer
+512-296-0434 | Best4BIM@gmail.com
+[https://TrentBest.github.io](https://TrentBest.github.io) | [FSM_API on GitHub](https://github.com/TrentBest/FSM_API)
+
+## Summary
+Highly driven technologist with a proven ability to develop and implement innovative software solutions. My career is defined by applying programming, automation, and data integration to transform complex workflows. At Amazon, I engineered a workflow that reduced project timelines by 85%. I am passionate about architecting efficient systems and leveraging code to solve real-world challenges, making me uniquely positioned to build next-generation applications.
+
+## Software Development & Automation Projects
+* **Finite State Machine (FSM) API & Unity Integration:** Architected and developed a robust, pure C# FSM API for complex behavior management. The CI pipeline puts the resultant .dll into another repo for easy Unity integration.
+* **Revit Dynamo Automation:** Created an optimized Dynamo graph for automated, precise hanger support placement for MEP components.
+* **Custom C# Add-ins (Amazon):** Developed bespoke C# applications for Revit, integrating with platforms like dRofus and ArcGIS, achieving significant workflow efficiencies (e.g., 7x gains).
+* **CNC Program Generation (Blu Homes):** Developed a Python script to convert BIM model data into CNC programs for precise modular construction manufacturing.
+* **AI Bot Development:** Programmed an AI bot capable of playing StarCraft 2, demonstrating advanced algorithmic thinking.
+* **BIM Rx Revit Add-in (Microdesk):** Contributed as a Junior Developer, programming parameter functionality for a commercial Revit add-in.
+
+## Technical Skills
+* **Programming Languages:** C#, Python, Java, C++
+* **BIM & AEC Tech:** Revit API, Dynamo, dRofus, ArcGIS, VDC
+* **Development Tools:** Git, Visual Studio, Unity, Agile/Scrum concepts
+* **Key Concepts:** Workflow Automation, Data Integration, Generative Design, Procedural Design, Parametric Modeling, Software Engineering and Design
+
+## Professional Experience
+* **BIM Consultant for Amazon** | 2021 – 2024
+    * Led development of a Net Zero Carbon BIM Calculation framework within Revit, enabling highly accurate, multi-model parametric control and data aggregation.
+* **BIM Technology Lead, Microdesk** | 2018 – 2021
+    * Specialized in BIM integration R&D, defining workflows to enhance client consistency and efficiency through technical solutions.
+* **BIM Electrical Lead, NAC** | 2015 – 2018
+    * Developed custom electrical standards and tools for live load calculations with fully parametric Revit families.
+* **BIM Production Lead, Blu Homes (Startup)** | 2014 – 2015
+    * Oversaw BIM modelers and implemented process improvements that accelerated production.
+* **Prior BIM Contributions (Rosendin, Titan AEC, Christiansen Group)** | 2007 – 2014
+    * Implemented and enforced BIM standards across diverse design and construction projects, including NASA facilities.
+
+## Education & Additional Experience
+* Computer Science studies, California State University, Chico
+* Nuclear Electricians Mate 3rd Class, US Navy (2004 – 2007)
+* Game Tester, Electronic Arts – Achieved top bug counts.
