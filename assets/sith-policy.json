@@ -12,7 +12,7 @@
   ],
   "branch_count": 3,
   "status": "NON-COMPLIANT",
-  "evaluated_at": "2026-11-20T12:57:57Z",
-  "workflow_run": "https://github.com/TrentBest/TrentBest.github.io/actions/runs/44740143270",
-  "triggering_commit": "4bbcc06ddbedd99aad510ad6a2efc3ec5f34e2c2"
+  "evaluated_at": "2026-11-21T12:42:06Z",
+  "workflow_run": "https://github.com/TrentBest/TrentBest.github.io/actions/runs/44905194139",
+  "triggering_commit": "87a0e5b9b503405980186688aac0ad88f4bd20a5"
 }
